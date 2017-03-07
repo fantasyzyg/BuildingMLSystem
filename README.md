@@ -1,2 +1,2 @@
 # BuildingMLSystem
-学习机器学习系统设计这本书，附上学习代码
+机器学习系统设计笔录，附上豆瓣链接：https://book.douban.com/subject/25899625/
